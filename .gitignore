@@ -1,0 +1,16 @@
+# Ignoring the idea folder
+.idea/
+*.iml
+# ignoring OSX .DS_STORE files
+**/.DS_Store
+
+#Vim undo & swp files
+*.un~
+*.swp
+
+#Ignore Terraform files
+terraform/out.plan
+.terraform
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
