@@ -1,6 +1,6 @@
 [{
   "name": "pace",
-  "image": "lplotni/pace-app",
+  "image": "pacerunning/pace-app",
   "cpu": 1024,
   "memory": 512,
   "logConfiguration": {

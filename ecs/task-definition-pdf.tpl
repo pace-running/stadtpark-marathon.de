@@ -1,6 +1,6 @@
 [{
   "name": "pace-pdf",
-  "image": "lplotni/pace-pdf",
+  "image": "pacerunning/pace-pdf",
   "cpu": 1024,
   "memory": 512,
   "logConfiguration": {
