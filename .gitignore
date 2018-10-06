@@ -9,7 +9,7 @@
 *.swp
 
 #Ignore Terraform files
-terraform/out.plan
+out.plan
 .terraform
 *.tfstate
 *.tfstate.*.backup
