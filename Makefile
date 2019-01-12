@@ -12,3 +12,7 @@ plan:
 
 apply:
 	terraform apply out.plan
+
+deploy:
+	ecs deploy mesh-ecs-cluster pace-ecs-service-app
+	ecs deploy mesh-ecs-cluster pace-ecs-service-pdf
